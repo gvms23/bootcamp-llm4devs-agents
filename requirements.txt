@@ -1,0 +1,4 @@
+docker
+autogen-agentchat
+autogen-ext[openai,docker]
+httpx
